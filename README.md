@@ -1,6 +1,6 @@
 Introduction
 This readme details the design and development of a hand recognition program, aiming to empower users to perform image operations through hand gestures and keyboard inputs. The program utilizes P5.js, a client-side JavaScript library, and ML5.js's Handpose machine learning model for hand recognition. The primary functionalities include pointing at specific image areas, freehand drawing, and selecting/copying/pasting image parts with dimension adjustments.
-
+ 
 Specifications
 Development Tools:
 P5.js for program development
