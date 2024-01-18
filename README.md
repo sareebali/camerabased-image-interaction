@@ -1,7 +1,7 @@
-Introduction
+Introduction:
 This readme details the design and development of a hand recognition program, aiming to empower users to perform image operations through hand gestures and keyboard inputs. The program utilizes P5.js, a client-side JavaScript library, and ML5.js's Handpose machine learning model for hand recognition. The primary functionalities include pointing at specific image areas, freehand drawing, and selecting/copying/pasting image parts with dimension adjustments.
  
-Specifications
+
 Development Tools:
 P5.js for program development
 ML5.js Handpose model for hand recognition
@@ -48,7 +48,7 @@ Implement erasing and pausing functionalities for more versatile drawings.
 Zooming Feature:
 
 Integrate pinch actions for zooming in and out of the image.
-How to Use
+How to Use:
 Open the program in a browser.
 Ensure your webcam is accessible.
 Use your index finger to interact with the image and perform specified operations.
